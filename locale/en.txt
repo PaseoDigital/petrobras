@@ -1,0 +1,36 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = La Evolución del Diésel al alcance de todos
+
+### Title
+tour.name = Petrobras - Euro 6
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = PERSPECTIVAS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = PERSPECTIVAS
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMACIÓN
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMACIÓN
+
+## Media
+
+### Title
+panorama_CA394FBB_C15B_0C45_41A4_FCF19CC6520B.label = Perspectiva 1
+panorama_CCB4D590_C17F_7C43_41E6_4E5198790FAB.label = Perspectiva 2
+panorama_D40F0B9C_C2A9_1443_41B2_9AC5B979AEC2.label = Perspectiva 3
+video_CE821A56_C1B9_14CC_41E2_5EC0B0EB62A8.label = EURO 6
+video_CF9D0750_C1B9_1CC4_41E7_4B80FEECBA80.label = EURO 6 no audio
+
+## Action
+
+### URL
+LinkBehaviour_CAC30EB1_C179_0C44_41E6_4D40D9FA46B2.source = http://www.twitter.com/loremipsum
+LinkBehaviour_CAC32EB1_C179_0C44_4194_40B2DE341CE4.source = http://www.facebook.com/loremipsum
+LinkBehaviour_CAC33EB1_C179_0C44_41D7_9AA7DD2B425A.source = http://www.facebook.com/loremipsum
+LinkBehaviour_CAC3FEB1_C179_0C44_41E2_7A4C7F5BFDCA.source = http://twitter.com/loremipsum
